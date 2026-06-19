@@ -1,0 +1,5 @@
+/mnt/c/Users/simon/OneDrive/Documentos/UNLaM/Sistemas Operativos/APL_2daCursada/APL3/intento3 - Test/archivo1
+/mnt/c/Users/simon/OneDrive/Documentos/UNLaM/Sistemas Operativos/APL_2daCursada/APL3/intento3 - Test/archivos1/operacionesArch1
+/mnt/c/Users/simon/OneDrive/Documentos/UNLaM/Sistemas Operativos/APL_2daCursada/APL3/intento3 - Test/archivos2
+/mnt/c/Users/simon/OneDrive/Documentos/UNLaM/Sistemas Operativos/APL_2daCursada/APL3/intento3 - Test/archivos4
+/mnt/c/Users/simon/OneDrive/Documentos/UNLaM/Sistemas Operativos/APL_2daCursada/APL3/directorioOperable

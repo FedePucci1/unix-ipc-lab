@@ -1,0 +1,18 @@
+*.o
+*.out
+*.exe
+*.zip
+.vscode/
+.idea/
+
+# Ejecutables generados por los ejercicios
+ejercicio1/Ejercicio1APL3
+ejercicio2/primos
+ejercicio3/entrada
+ejercicio3/salida
+ejercicio3/fifos/*
+ejercicio4/cliente
+ejercicio4/servidor
+ejercicio5/cliente
+ejercicio5/servidor
+

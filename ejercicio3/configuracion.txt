@@ -1,0 +1,5 @@
+./archivos1/
+./archivos1/operacionesArch1/
+./archivos2/
+./archivos4/
+../directorioOperable/
